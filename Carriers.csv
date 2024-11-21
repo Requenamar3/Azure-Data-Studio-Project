@@ -1,0 +1,7 @@
+Carrier_ID,Name,Flat_Rate,Service_Type
+C1,UPS Ground,2.2,Ground
+C2,FedEx Ground,2.8,Ground
+C3,OnTrac,2.5,Ground
+C4,FedEx Standard Overnight,5.0,Air
+C5,FedEx Priority Overnight,7.0,Air
+C6,UPS Air,6.5,Air
